@@ -9,6 +9,7 @@
 #define ROUTE "/bin/lspci"
 #define SEM_ID 0x123456
 
+
 typedef struct
 {
   pid_t pid;
